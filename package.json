@@ -30,6 +30,7 @@
   },
   "devDependencies": {
     "prettier": "^3.2.5",
+    "tsx": "^4.19.2",
     "turbo": "latest",
     "typescript": "^5.4.2"
   },
